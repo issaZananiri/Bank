@@ -1,0 +1,51 @@
+body{
+  background-color: rgb(198, 227, 228);
+  text-align: center;
+}
+.operations{
+  margin: 10px;
+  color: rgb(43, 43, 58);
+}
+#container{
+
+height: 300px;
+margin-top: 100px;
+}
+.transactions{
+  margin: 10px;
+  color: rgb(43, 43, 58);
+}
+
+.breakdown{
+  margin: 10px;
+  color: rgb(34, 34, 39);
+}
+
+#withdraw{
+  margin: 10px;
+  width: 100px;
+}
+
+#deposit{
+  margin: 10px;
+  width: 100px;
+}
+#amount{
+width: 300px;
+height: 25px;
+margin-top: 10px;
+}
+#vendor{
+  width: 300px;
+  height: 25px;
+  margin-top: 10px;
+}
+#category{
+  width:300px;
+  height: 25px;
+  margin-top: 10px;
+}
+#delete{
+  margin: 10px;
+  width: 100px;
+}
